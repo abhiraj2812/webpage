@@ -1,0 +1,21 @@
+.contanier{
+    padding-left: 0ch;}
+.bgimg{
+    background-image: url(/Photo/bg\ img.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 650px;
+}
+.headerset{
+    padding-top: 30px;
+    box-sizing: border-box;
+}
+.headerset h1{
+    font-style: italic;
+    font-weight: 500;
+}
+.headerset h4{
+    font-style: italic;
+    font-weight: 300;
+}
